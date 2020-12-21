@@ -3,7 +3,6 @@
   "compilerOptions": {
     "target": "esnext",
     "esModuleInterop": true,
-    "rootDirs": ["./src", "./app", "./shared"],
     "outDir": "dist"
   },
   "include": [
