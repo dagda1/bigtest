@@ -3,7 +3,7 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "types": ["cypress"],
-    "outDir": "dist",
+    "outDir": "dist/cjs",
     "rootDir": "./src"
   },
   "include": [
